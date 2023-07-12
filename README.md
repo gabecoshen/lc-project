@@ -1,2 +1,4 @@
-# lc-project
-Projetos em Java 'let's code'
+# curso inicial: git/versionamento
+
+# salvando alterações no git
+* comando git push
